@@ -1,5 +1,5 @@
 # YT-knowledge
- Extract meaning and knowledge from a YouTube user's playlist !
+ Extract textual meaning and knowledge from all videos of a YouTube user's playlists
 
 Give it a channel ID or a user username, it will extract and organise transcripts from each video of each playlist.
 
