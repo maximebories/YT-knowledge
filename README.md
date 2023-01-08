@@ -3,4 +3,4 @@
 
 Give it a channel ID or a user username, it will extract and organise transcripts from each video of each playlist.
 
-Next stpe is to add a NLP after that.
+Currently working on NLP processing (Transformer and BERT models compatibility)
