@@ -3,7 +3,7 @@ import googleapiclient.discovery
 
 from googleapiclient.discovery import build
 
-DEVELOPER_KEY = "AIzaSyA0XJ1tobuHeSFg8YHohPpZQnZjJFOfKGU"
+DEVELOPER_KEY = "RLY?"
 
 def get_channel_playlists(channel_id_or_username):
 	# Set up the YouTube Data API client
